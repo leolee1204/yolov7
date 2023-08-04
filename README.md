@@ -49,4 +49,4 @@ nc: 80
 
 ### detect test images
 * python detect.py –weight weights/best.pt –source ../Uno/test/images/
-* detect images info > run/detect/exp 
+* detect images info > runs/detect/exp 
